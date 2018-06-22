@@ -12,4 +12,19 @@
 - NIO
 
 ### Web
+- Struct
+- SpringMVC
+- Spring
+- Mybatis
+- Hibernate
+
+### DB
+- Mysql
+- Postgresql
+
+### Python
+- WSGI
+- Flask
+- Cython
+
 
