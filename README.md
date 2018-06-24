@@ -28,8 +28,10 @@
 - Cython
 
 ### Finance
-- [Accounting for lease](https://github.com/PassWarer/KnowledgeReview/blob/master/Finance/%5BB3%5Daccounting_for_lease.md)
-- [Tax Reporting&Financial Reporting](https://github.com/PassWarer/KnowledgeReview/blob/master/Finance/%5BB3%5DTax_Reporting%26Financial_Reporting.md)
-- [Calculation for deffered tax](https://github.com/PassWarer/KnowledgeReview/blob/master/Finance/%5BB3%5DCalculation%20For%20Deffered%20Tax.md)
+- [Book 1 Ethics and Quantitative method]()
+- [Book 2 Economics]()
+- [Book 3 Finacial Reporting and Analysis]()
+- [Book 4 Corporate Finance, Portfolio management, and Enquity Investment]()
+- [Book 5 Fixed Income, Derivatives and Alternative Investments]()
 
 ### Mathmatics 
