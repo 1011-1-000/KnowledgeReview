@@ -28,10 +28,10 @@
 - Cython
 
 ### Finance
-- [Book 1 Ethics and Quantitative method]()
-- [Book 2 Economics]()
-- [Book 3 Finacial Reporting and Analysis]()
-- [Book 4 Corporate Finance, Portfolio management, and Enquity Investment]()
-- [Book 5 Fixed Income, Derivatives and Alternative Investments]()
+- Book 1 Ethics and Quantitative method
+- Book 2 Economics
+- [Book 3 Finacial Reporting and Analysis](https://github.com/PassWarer/KnowledgeReview/blob/master/Finance/Finacial%20Reporting%20and%20Analysis.md)
+- Book 4 Corporate Finance, Portfolio management, and Enquity Investment
+- Book 5 Fixed Income, Derivatives and Alternative Investments
 
 ### Mathmatics 
