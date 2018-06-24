@@ -81,7 +81,7 @@
 - 数据流：DataInputStream, DataOutputStream
 
 #### 示例代码
-更多关于管道和缓冲代码，请参照[这里]()。
+更多关于管道和缓冲代码，请参照[这里](https://github.com/PassWarer/KnowledgeReview/tree/master/Java/src/main/com/leo/io)。
 ```java
 /*
  * Copyright [2018] [Leo].
