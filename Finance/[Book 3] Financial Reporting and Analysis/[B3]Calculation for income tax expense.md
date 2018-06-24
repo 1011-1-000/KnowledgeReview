@@ -39,8 +39,8 @@
 
 Income tax expense = current tax expense + △DTL - △DTA
 
-注意的是，DTL和DTA的计算是用未来的tax rate来计算
-current tax expense 应该用现在的tax rate来计算
+- 注意的是，DTL和DTA的计算是用未来的tax rate来计算
+- current tax expense 应该用现在的tax rate来计算
 
 ##### Tax rate changes
 
