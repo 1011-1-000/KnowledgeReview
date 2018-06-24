@@ -8,7 +8,7 @@
 
 ### Java
 
-- [IO相关总结]（https://github.com/PassWarer/KnowledgeReview/blob/master/Java/documents/JavaIO.md）
+- [IO相关总结](https://github.com/PassWarer/KnowledgeReview/blob/master/Java/documents/JavaIO.md)
 - NIO
 
 ### Web
