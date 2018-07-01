@@ -24,7 +24,10 @@
 - [PostgreSQL查询优化器详解（物理优化篇）](http://dbaplus.cn/news-155-2061-1.html)
 
 ### Python
-- WSGI
+- [WSGI协议(PEP333)一](https://github.com/PassWarer/KnowledgeReview/blob/master/Python/PEP333_1.md)
+- [WSGI协议(PEP333)二](https://github.com/PassWarer/KnowledgeReview/blob/master/Python/PEP333_2.md)
+- [WSGI协议(PEP333)三](https://github.com/PassWarer/KnowledgeReview/blob/master/Python/PEP333_3.md)
+- [WSGI协议(PEP333)四](https://github.com/PassWarer/KnowledgeReview/blob/master/Python/PEP333_4.md)
 - Flask
 - Cython
 
