@@ -20,7 +20,8 @@
 
 ### DB
 - Mysql
-- Postgresql
+- [PostgreSQL查询优化器详解（逻辑优化篇）](http://dbaplus.cn/news-155-2060-1.html)
+- [PostgreSQL查询优化器详解（物理优化篇）](http://dbaplus.cn/news-155-2061-1.html)
 
 ### Python
 - WSGI
