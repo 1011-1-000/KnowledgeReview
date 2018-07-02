@@ -1,4 +1,4 @@
-#### Accounting for lease
+#### Accounting for lease(Lessee)
 
 租赁的原因
 
@@ -17,6 +17,7 @@
 - Sales type lease，制造资产并转租给别人，会有Revenue和COGS（制造性企业）
 - Direct financing lease, 从别人那买来的资产并转租给别人（金融租赁公司），没有毛利。
 
+Here is from the perspective of Lessor:
 
 Statements | Sales-type lease | Direct-financing lease
 ---|---|---|
