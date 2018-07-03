@@ -20,6 +20,7 @@
 
 ### DB
 - Mysql
+- [一条SQL语句在PostgreSQL中的查询优化过程](https://github.com/PassWarer/KnowledgeReview/blob/master/DB/%E4%B8%80%E6%9D%A1SQL%E8%AF%AD%E5%8F%A5%E7%9A%84%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96.md)
 - [PostgreSQL查询优化器详解（逻辑优化篇）](http://dbaplus.cn/news-155-2060-1.html)
 - [PostgreSQL查询优化器详解（物理优化篇）](http://dbaplus.cn/news-155-2061-1.html)
 
