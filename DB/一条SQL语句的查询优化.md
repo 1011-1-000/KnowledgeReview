@@ -22,7 +22,7 @@ CREATE INDEX date_type_idx ON table (date, type);
 ```sql
 CLUSTER date_type_idx ON table
 ```
-SQL的查询降了1s左右。
+SQL的查询降到了1s左右。
 
 tips:
 - 聚集索引：表中各行的物理顺序与键值的逻辑（索引）顺序相同，表中只能包含一个聚集索引。
